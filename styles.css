@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    margin: 0%;
+}
+.title h1{
+    background-color: white;
+    margin: 0;
+    text-align: center;
+    padding: 5px;
+}
+.post{
+    background-color: white;
+    width: 600px;
+    margin: auto;
+}
+.picture img{
+    width: 100%;
+    height: auto;
+}
+.header{
+    margin-top: 12px;
+}
+.header{
+    display: flex;
+}
+.profile{
+    width: 97%;
+    display: flex;
+    padding: 12px;
+}
+.dots{
+    width: 3%;   
+    margin-top: 15px;
+}
+.likesandcaption{
+    padding: 12px;
+    padding-top: 0%;
+}
+.instaicons{
+    padding: 12px;
+    margin: 0%;
+}
+.name{
+    padding-left: 12px;
+}
+.right{
+    float: right;
+}
+
