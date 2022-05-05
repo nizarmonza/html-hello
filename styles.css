@@ -39,11 +39,12 @@ body{
 .instaicons{
     padding: 12px;
     margin: 0%;
+    display: flex;
+    justify-content: space-between;
 }
 .name{
     padding-left: 12px;
 }
-.right{
-    float: right;
-}
+
+
 
